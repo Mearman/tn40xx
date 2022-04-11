@@ -44,6 +44,15 @@ VID /DID /SVID/SDID	Interface			Print Name
 1fc9/4027/1baa/3310	NBASE-T Pele MV88X3310	"QNAP LAN-10G1T-THT 10Gbase-T/NBASE-T Ethernet Adapter"
 1fc9/4527/1fc9/3015	5GBASE-T Pele MV88E2010	"TN9710Q 5GBase-T/NBASE-T Ethernet Adapter"
 
+Download `.txz`
+----------------------
+https://www.uptimed.nl/drivers
+
+https://www.uptimed.nl/downloads/drivers/tn4010/FreeBSD-TN4010-1.1.zip
+
+[./tn40xx_freebsd11_amd64-1.1.txz]()
+
+[./tn40xx_freebsd12_amd64-1.1.txz]()
 
 Installing the package
 ----------------------
