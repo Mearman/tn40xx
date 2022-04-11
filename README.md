@@ -48,11 +48,11 @@ Download `.txz`
 ----------------------
 https://www.uptimed.nl/drivers
 
-[https://www.uptimed.nl/downloads/drivers/tn4010/FreeBSD-TN4010-1.1.zip](./FreeBSD-TN4010-1.1.zip)
+[https://www.uptimed.nl/downloads/drivers/tn4010/FreeBSD-TN4010-1.1.zip](https://github.com/Mearman/tn40xx/raw/freebsd11/FreeBSD-TN4010-1.1.zip)
 
-[./tn40xx_freebsd11_amd64-1.1.txz](./tn40xx_freebsd11_amd64-1.1.txz)
+[./tn40xx_freebsd11_amd64-1.1.txz](https://github.com/Mearman/tn40xx/raw/freebsd11/tn40xx_freebsd11_amd64-1.1.txz)
 
-[./tn40xx_freebsd12_amd64-1.1.txz](./tn40xx_freebsd12_amd64-1.1.txz)
+[./tn40xx_freebsd12_amd64-1.1.txz](https://github.com/Mearman/tn40xx/raw/freebsd11/tn40xx_freebsd12_amd64-1.1.txz)
 
 Installing the package
 ----------------------
